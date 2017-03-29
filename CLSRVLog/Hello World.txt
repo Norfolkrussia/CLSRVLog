@@ -2,4 +2,3 @@ int main()
 {
 	cout << "Hello World";
 }
-123
