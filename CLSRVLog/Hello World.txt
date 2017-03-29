@@ -4,3 +4,4 @@ int main()
 	пам пам
 	туруру12
 }fewfw
+dewdew
