@@ -3,4 +3,4 @@ int main()
 	cout << "Hello World";
 	пам пам
 	туруру12
-}
+}fewfw
