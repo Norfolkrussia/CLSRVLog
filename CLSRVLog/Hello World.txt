@@ -5,3 +5,4 @@ int main()
 	туруру12
 }fewfw
 dewdew
+reg
